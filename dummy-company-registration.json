@@ -1,0 +1,50 @@
+[
+  {
+    "email": "company1@example.com",
+    "password": "password123",
+    "type": "company",
+    "profile": {
+      "companyName": "Acme Inc.",
+      "industry": "Technology",
+      "companySize": "101-500",
+      "website": "https://acme.com",
+      "contactPerson": "John Doe",
+      "position": "HR Manager",
+      "phone": "+15551112222",
+      "address": "789 Tech Blvd",
+      "city": "Metropolis",
+      "province": "ON",
+      "country": "Canada",
+      "description": "Leading innovator in various technologies.",
+      "founded": "1990",
+      "specialties": ["Software Development", "AI", "Cloud Computing"],
+      "benefits": ["Health Insurance", "Paid Time Off", "Remote Work Options"],
+      "jobTypes": ["Full-time", "Internship"],
+      "hiringFrequency": "Quarterly"
+    }
+  },
+  {
+    "email": "company2@example.com",
+    "password": "password123",
+    "type": "company",
+    "profile": {
+      "companyName": "Globex Corp.",
+      "industry": "Finance",
+      "companySize": "501-1000",
+      "website": "https://globex.com",
+      "contactPerson": "Jane Smith",
+      "position": "Recruitment Lead",
+      "phone": "+15553334444",
+      "address": "101 Finance St",
+      "city": "Gotham",
+      "province": "QC",
+      "country": "Canada",
+      "description": "Global financial services provider.",
+      "founded": "1985",
+      "specialties": ["Financial Analysis", "Investment Banking"],
+      "benefits": ["Competitive Salary", "Bonus Schemes"],
+      "jobTypes": ["Full-time", "Co-op"],
+      "hiringFrequency": "Annually"
+    }
+  }
+]

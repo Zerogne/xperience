@@ -1,0 +1,60 @@
+[
+  {
+    "email": "student1@example.com",
+    "password": "password123",
+    "type": "student",
+    "profile": {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "phone": "+15551234567",
+      "dateOfBirth": "2000-01-15T00:00:00.000Z",
+      "gender": "Female",
+      "address": "123 Main St",
+      "city": "Anytown",
+      "province": "ON",
+      "country": "Canada",
+      "postalCode": "A1A1A1",
+      "education": "University of Toronto",
+      "major": "Computer Science",
+      "gpa": 3.8,
+      "skills": ["JavaScript", "React", "Node.js", "MongoDB"],
+      "languages": ["English", "French"],
+      "experience": "2 years of internship experience in web development.",
+      "resumeUrl": "https://example.com/alice_resume.pdf",
+      "portfolioUrl": "https://alice.dev",
+      "linkedinUrl": "https://linkedin.com/in/alicesmith",
+      "githubUrl": "https://github.com/alicesmith",
+      "websiteUrl": "https://alicesmith.com",
+      "bio": "Passionate software engineering student looking for challenging opportunities."
+    }
+  },
+  {
+    "email": "student2@example.com",
+    "password": "password123",
+    "type": "student",
+    "profile": {
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "phone": "+15559876543",
+      "dateOfBirth": "1999-05-20T00:00:00.000Z",
+      "gender": "Male",
+      "address": "456 Oak Ave",
+      "city": "Otherville",
+      "province": "QC",
+      "country": "Canada",
+      "postalCode": "B2B2B2",
+      "education": "McGill University",
+      "major": "Electrical Engineering",
+      "gpa": 3.5,
+      "skills": ["Python", "C++", "Embedded Systems"],
+      "languages": ["English"],
+      "experience": "1 year of co-op experience in hardware development.",
+      "resumeUrl": "https://example.com/bob_resume.pdf",
+      "portfolioUrl": "https://bob.dev",
+      "linkedinUrl": "https://linkedin.com/in/bobjohnson",
+      "githubUrl": "https://github.com/bobjohnson",
+      "websiteUrl": "https://bobjohnson.com",
+      "bio": "Enthusiastic EE student seeking opportunities in robotics."
+    }
+  }
+]
