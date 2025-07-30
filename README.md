@@ -21,7 +21,7 @@
 ## 🛠️ Ашигласан технологи
 
 - **Frontend:** Next.js, TypeScript, TailwindCSS  
-- **AI Integration:** OpenAI GPT-4 API, Whisper API (дуу хоолой таних)  
+- **AI Integration:** OpenAI GPT-4 API  
 - **Backend/API:** Node.js, Express  
 - **Storage:** IndexedDB (offline), MongoDB (cloud)   
 - **Deployment:** Vercel
